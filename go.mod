@@ -1,4 +1,4 @@
-module go-sendmail
+module github.com/Bakirov-Artur/go-sendmail
 
 go 1.13
 
