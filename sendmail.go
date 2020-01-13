@@ -1,4 +1,4 @@
-package "go-sendmail"
+package sendmail
 
 import (
 	"bytes"
